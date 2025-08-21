@@ -56,7 +56,10 @@ http://localhost/WEBSITE/
 ## Screenshots
 
 <img width="1897" height="887" alt="image" src="https://github.com/user-attachments/assets/28243201-6ef9-47fe-bbf7-d7b02de47b15" />
-<img width="1894" height="900" alt="image" src="https://github.com/user-attachments/assets/ea5a05e6-6211-4be0-8221-191e106bb56d" />
+<img width="1894" height="889" alt="image" src="https://github.com/user-attachments/assets/72ac5f8f-771a-4bb1-9059-e141a82a5b5b" />
+<img width="1880" height="908" alt="image" src="https://github.com/user-attachments/assets/832edeed-0480-4d9d-9297-281f1b1239ca" />
+<img width="1866" height="897" alt="image" src="https://github.com/user-attachments/assets/1e9714f4-674a-45b9-a0ab-4bd25c5c4648" />
+
 
 
 
